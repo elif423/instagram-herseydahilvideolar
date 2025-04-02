@@ -1,0 +1,2 @@
+print("selam")
+input("isminiz")
